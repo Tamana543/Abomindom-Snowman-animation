@@ -46,7 +46,45 @@ This project highlights how powerful CSS can be when used intentionally.
 ---
 
 ## 📂 Project Structure
+```
+Abominable-Snowman-Animation/
+│
+├── index.html
+├── style.css
+├── assets/
+└── README.md
 
+```
+---
+
+## ▶️ How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Abominable-Snowman-animation.git
+
+
+Open index.html in your browser
+
+No setup or dependencies required.
+
+🌱 Future Improvements
+```
+Add interactive controls
+
+Enhance animation smoothness
+
+Add sound effects
+
+Create multiple character variations
+```
+👩‍💻 Author
+
+Tamana<ReginaJS/>
+
+Front-End Developer
+Creative CSS • UI Animation • Clean Design
+
+⭐ If you enjoyed this project, feel free to star the repository!
 
 
 
